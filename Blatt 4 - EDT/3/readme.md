@@ -7,11 +7,11 @@ Eine Amphibie wurde fälschlicherweise als Reptil eingeordnet.
 
 # Nr. 2 – Datentypen
 
-- **Nominal**: Entspricht einem *Enum* mit vordefinierten Werten ohne Rangordnung, die nicht sortierbar sind.  
+- **Nominal**: Entspricht einer art Enum mit vordefinierten Werten ohne Rangordnung, die nicht sortierbar sind.  
 - **Ordinal**: Hat ebenfalls definierte Werte, aber mit einer klaren Reihenfolge, sodass sie sortiert werden können.  
 - **String**: Werte sind nicht sortierbar und können beliebig viele verschiedene Ausprägunge annehmen.
 
-Die **ARFF-Dateien** befinden sich im Repository.
+Die ARFF-Dateien befinden sich im Repository.
 
 ---
 
